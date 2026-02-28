@@ -1,0 +1,5 @@
+Django
+pandas
+usaddress
+openpyxl
+xlrd
